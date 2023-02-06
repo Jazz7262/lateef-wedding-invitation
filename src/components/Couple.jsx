@@ -118,8 +118,8 @@ function Couple() {
                         </div>
                         <div className="info groom-info">
                             <h3>
-                                J Mohammed Lateef Ashrafi
-                                <sub>B.Tech. (Civil)</sub>,
+                                J Mohammed Lateef Ashrafi {" "}
+                                <sub>B.Tech. (Civil),</sub>
                             </h3>
                             {/* <p className="mt-2 mt-lg-3">
                                 Profession: <strong>Works at FLUOR,</strong>{" "}
@@ -241,8 +241,8 @@ function Couple() {
                         </div>
                         <div className="info bride-info">
                             <h3>
-                                Qurat-ul-A'ayin
-                                <sub>B.Com. TPP</sub>,
+                                Qurat-ul-A'ayin {" "}
+                                <sub>B.Com. TPP,</sub>
                             </h3>
 
                             <p className="mt-2 mt-lg-3">

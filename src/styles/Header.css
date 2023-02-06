@@ -16,7 +16,7 @@
 
 #header .poster-wrapper {
     padding: 7%;
-    background-image: url("../../public/assets/images/bg-1.jpg");
+    /* background-image: url("../../public/assets/images/bg-1.jpg"); */
     background-size: 100% 100%;
 }
 
