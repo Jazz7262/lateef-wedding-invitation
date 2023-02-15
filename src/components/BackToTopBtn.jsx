@@ -14,8 +14,8 @@ function BackToTopBtn() {
     }, []);
 
     function handleClick() {
-
         $("html, body").animate({ scrollTop: 0 });
+        window.location.hash = "header";
     }
 
     return (

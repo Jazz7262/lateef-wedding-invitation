@@ -13,6 +13,7 @@ import InviteNote from "./InviteNote";
 import DeveloperInfo from "./DeveloperInfo";
 import Audio from "./Audio";
 import CustomModel from "./CustomModel";
+import Logo from "./Logo";
 
 import $ from "jquery";
 
@@ -56,6 +57,7 @@ function App() {
             <Compliments />
             <InviteNote />
             <DeveloperInfo />
+            <Logo />
             <Audio />
             <BackToTopBtn />
         </>

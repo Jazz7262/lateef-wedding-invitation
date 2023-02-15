@@ -66,7 +66,6 @@ function Navbar() {
                         className="icon"
                         size="sm"
                     />
-                    
                 </a>
                 <button
                     className="navbar-toggler"
@@ -123,6 +122,7 @@ function Navbar() {
                     </ul>
                 </div>
             </nav>
+            {/* full navbar for mobile view */}
             <div className="full-scrn-nav">
                 <div className="full-scrn-nav-wrapper">
                     <div className="full-scrn-nav-content">

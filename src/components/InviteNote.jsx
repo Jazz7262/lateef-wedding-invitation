@@ -13,8 +13,7 @@ function InviteNote() {
                     Adoni.
                 </h5>
                 <h5 className="address mb-3">
-                    H.No.: 6/264,
-                    <br /> NTR Colony,
+                    H.No.: 6/264, NTR Colony,
                     <br /> Adoni, Kurnool Dist.,
                     <br /> Andhra Pradesh - 518 301.
                 </h5>
