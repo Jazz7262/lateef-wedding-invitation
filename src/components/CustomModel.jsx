@@ -37,12 +37,15 @@ function CustomModel() {
                         {
                             scrollTop: 0,
                         },
-                        5000
+                        5000,
+                        function () {
+                            document.querySelector(
+                                "html"
+                            ).style.scrollBehavior = "smooth";
+
+                            $("html, body").off("click");
+                        }
                     );
-                    setTimeout(function () {
-                        document.querySelector("html").style.scrollBehavior =
-                            "smooth";
-                    }, 5000);
                 }
             );
         }, 500);
